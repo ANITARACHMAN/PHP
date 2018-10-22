@@ -1,12 +1,13 @@
 <html>
 <head>
   <title>Menampilkan data dari database ke dalam bentuk tabel</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 
   <div class="container">
   	<h2><center>DATA PESERTA</center></h2>
-  	<table class=" table table-bordered table-hovered" align="center">
+  	<table class="tabel" align="center">
   <tr>
   	<th>id</th>
   	<th>username</th>
